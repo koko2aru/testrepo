@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+html{
+	color: #555555;
+	background-color: #dddddd;
+	text-align: center;
+}
+
+h2.index{
+	margin-bottom:0;
+}
+
+p.error{
+	color:#FF5555;
+}
+
+input.button {
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  background: #555555;
+  color: #ffffff;
+  border: solid #555555;
+  width:80px;
+}
+
+input.cancel-button {
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  background: #ffffff;
+  color: #555555;
+  border: 1px solid #555555;
+  height:28px;
+  width:80px;
+}
